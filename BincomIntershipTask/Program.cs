@@ -9,3 +9,15 @@ Console.WriteLine(age);
 // Task1 A boolean variable named isAdmin with the value true.
 bool isAdmin = true;
 Console.WriteLine(isAdmin);
+
+//use an if-else statement to determine whether the number is even or odd
+int number = 10;
+
+if (number % 2 == 0)
+{
+    Console.WriteLine($"{number} is even");
+}
+else
+{
+    Console.WriteLine($"{number} is odd");
+}
