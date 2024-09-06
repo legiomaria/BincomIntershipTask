@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BincomIntershipTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1a0d9663ee7cc1fb2240719749dba963b6115d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1217da63ed9c589ceedaae2958579ed018cc127b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BincomIntershipTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BincomIntershipTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

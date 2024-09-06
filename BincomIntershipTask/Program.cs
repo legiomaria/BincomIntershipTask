@@ -28,3 +28,22 @@ for (int i = 1; i <= 10; i++)
 {
     Console.WriteLine(i);
 }
+
+// Task 4: Declare and Initialize an integar array with the value 2, 4, 6, 8, 10.
+int[] numbers = { 2, 4, 6, 8, 10 };
+
+foreach (int numb in numbers)
+{
+    Console.WriteLine(numb);
+}
+
+// Task 5: Writing a method named Greet that takes a string parameter name and prints out
+// a personalized greeting message.
+void Greet(string name)
+{
+    Console.WriteLine($"Hello, {name}!");
+}
+Greet("Alice");
+
+
+
