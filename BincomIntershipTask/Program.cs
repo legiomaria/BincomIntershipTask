@@ -21,3 +21,10 @@ else
 {
     Console.WriteLine($"{number} is odd");
 }
+
+
+//Write a program that prints out the number 1 to 10 using a for loop.
+for (int i = 1; i <= 10; i++)
+{
+    Console.WriteLine(i);
+}

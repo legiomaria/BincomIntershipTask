@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\BincomIntershipTask\BincomIntershipTask\bin\Debug\net8.0\BincomIntershipTask.exe
+C:\Users\User\source\repos\BincomIntershipTask\BincomIntershipTask\bin\Debug\net8.0\BincomIntershipTask.deps.json
+C:\Users\User\source\repos\BincomIntershipTask\BincomIntershipTask\bin\Debug\net8.0\BincomIntershipTask.runtimeconfig.json
+C:\Users\User\source\repos\BincomIntershipTask\BincomIntershipTask\bin\Debug\net8.0\BincomIntershipTask.dll
+C:\Users\User\source\repos\BincomIntershipTask\BincomIntershipTask\bin\Debug\net8.0\BincomIntershipTask.pdb
+C:\Users\User\source\repos\BincomIntershipTask\BincomIntershipTask\obj\Debug\net8.0\BincomIntershipTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BincomIntershipTask\BincomIntershipTask\obj\Debug\net8.0\BincomIntershipTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BincomIntershipTask\BincomIntershipTask\obj\Debug\net8.0\BincomIntershipTask.AssemblyInfo.cs
+C:\Users\User\source\repos\BincomIntershipTask\BincomIntershipTask\obj\Debug\net8.0\BincomIntershipTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BincomIntershipTask\BincomIntershipTask\obj\Debug\net8.0\BincomIntershipTask.sourcelink.json
+C:\Users\User\source\repos\BincomIntershipTask\BincomIntershipTask\obj\Debug\net8.0\BincomIntershipTask.dll
+C:\Users\User\source\repos\BincomIntershipTask\BincomIntershipTask\obj\Debug\net8.0\refint\BincomIntershipTask.dll
+C:\Users\User\source\repos\BincomIntershipTask\BincomIntershipTask\obj\Debug\net8.0\BincomIntershipTask.pdb
+C:\Users\User\source\repos\BincomIntershipTask\BincomIntershipTask\obj\Debug\net8.0\BincomIntershipTask.genruntimeconfig.cache
+C:\Users\User\source\repos\BincomIntershipTask\BincomIntershipTask\obj\Debug\net8.0\ref\BincomIntershipTask.dll
